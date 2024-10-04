@@ -4,14 +4,15 @@ publishDate: 2022-12-01 00:00:00
 img: https://storage.googleapis.com/jennyencho-website/landing-img/scootly-landing.png
 img_alt: A bright pink sheet of paper used to wrap flowers curves in front of rich blue background
 description: |
-  We paired with a cutting-edge music API and a team of horticulturalists
-  to build AI-generated playlists that maximize houseplant health.
+  Reimagining urban mobility by turning personal scooters into a shared resource for everyone.
 tags:
   - UI/UX Design
   - Engineering
 ---
 
 ## Context
+
+> Reimagining urban mobility by turning personal scooters into a shared resource for everyone.
 
 ### Background
 
