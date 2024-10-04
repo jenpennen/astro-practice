@@ -126,7 +126,7 @@ const projects = (await getCollection('work'))
 		box-shadow: var(--shadow-md);
 	}
 
-	@media (min-width: 50em) {
+	@media (min-width: 30em) {
 		.hero {
 			display: grid;
 			grid-template-columns: 6fr 4fr;
@@ -142,8 +142,9 @@ const projects = (await getCollection('work'))
 
 		.hero img {
 			aspect-ratio: 3 / 4;
-			border-radius: 4.5rem;
-			object-fit: cover;
+			border-radius: 1.5rem;
+			object-fit:cover;
+			
 		}
 	}
 
