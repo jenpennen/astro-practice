@@ -16,25 +16,25 @@ tags:
 
 ### Background
 
-<a href="https://www.developforgood.org/">Develop For Good (DFG)</a> is a 501(c)(3) nonprofit organization that empowers underserved and underrepresented college students by providing opportunities to work on real-world technical projects for nonprofits. Founded in March 2020 by Stanford students Mary Zhu and Amay Aggarwal, DFG was established to support nonprofits struggling with digital access during the COVID-19 pandemic, and to provide opportunities for students to engage in meaningful tech-focused volunteer work.
+<a href="https://www.developforgood.org/">Develop For Good (DFG)</a> is a <span style="color:var(--accent-light)">501(c)(3) nonprofit organization that empowers underserved and underrepresented college students by providing opportunities to work on real-world technical projects for nonprofits.</span> Founded in March 2020 by Stanford students Mary Zhu and Amay Aggarwal, DFG was established to support nonprofits struggling with digital access during the COVID-19 pandemic, and to provide opportunities for students to engage in meaningful tech-focused volunteer work.
 
 ### Observation
 
-#### Develop For Good operates in four-month project cycles twice a year.
+##### Develop For Good operates in four-month project cycles twice a year.
 
 Volunteers are placed in teams focusing on technical projects in web/mobile development, data engineering, and UI/UX design, with each team consisting of at least 8 volunteers.
 
-#### An increasing number of students and nonprofits are turning to DFG for technical opportunities and services.
+##### An increasing number of students and nonprofits are turning to DFG for technical opportunities and services.
 
 An increasing number of students and nonprofits are seeking technical opportunities and services from DFG. Despite this rising demand, DFG can currently support around 35 nonprofit clients per cycle.
 
 ### Problem
 
-#### Develop For Good needs a dedicated cloud environment.
+##### Develop For Good needs a dedicated cloud environment.
 
 Develop For Good currently operates without a dedicated cloud environment for its services, resulting in user fragmentation. This limitation makes it difficult to securely manage and store data specific to both volunteers and nonprofit clients, highlighting the need for a more robust, centralized system.
 
-#### DFG's onboarding/offboarding processes limits scalability.
+##### DFG's onboarding/offboarding processes limits scalability.
 
 The onboarding and offboarding processes at Develop For Good is labor-intensive, with Program Director Amanda Lo manually managing over 400 volunteers and clients each project cycle on DFG's social platforms. This time-consuming task limits DFG's ability to scale efficiently with its current infrastructure.
 
@@ -42,11 +42,11 @@ The onboarding and offboarding processes at Develop For Good is labor-intensive,
 
 ### Goals
 
-#### Automate the onboarding/offboarding process for all project cycles.
+##### Automate the onboarding/offboarding process for all project cycles.
 
 Instead of manually inviting every new volunteer onto DFG's platforms, we can invite volunteers in bulk.
 
-#### Determine what services the management team needs to handle lifecycle tasks.
+##### Determine what services the management team needs to handle lifecycle tasks.
 
 The management team also relies on other lifecycle tasks to ensure that each cycle operates seamlessly. Understanding what services are needed to interact with both volunteers and clients were crucial.
 

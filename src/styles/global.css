@@ -96,16 +96,17 @@
   --gray-999-basis: 225, 31%, 5%;
   --gray-999: #090b11;
 
-  --accent-light: #eaa4dd;
-  --accent-regular: #c2409d;
-  --accent-dark: #d55fb9;
-  --accent-overlay: rgb(194, 64, 157, 0.33);
-  --accent-subtle-overlay: #a72f8254;
+  --accent-light: #7ea7dc;
+  --accent-regular: #5f8ad2;
+  --accent-dark: #415eb4;
+  --text-highlight: ##a8c5e8;
+  --accent-overlay: #415eb454;
+  --accent-subtle-overlay: #3a4e9354;
   --accent-text-over: var(--gray-100);
 
   --link-color: var(--accent-dark);
 
-  --gradient-stop-1: #4c11c6;
+  --gradient-stop-1: #3a4e93;
   --gradient-subtle: linear-gradient(
     150deg,
     var(--gray-900) 19%,
