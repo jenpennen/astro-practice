@@ -14,12 +14,12 @@
   --gray-900: #f3f4f7;
   --gray-999-basis: 0, 0%, 100%;
   --gray-999_40: hsla(var(--gray-999-basis), 0.4);
-  --gray-999: #ffffff;
+  --gray-999: #f2f6fc;
 
-  --accent-light: #f6d4f1;
-  --accent-regular: #d85cbd;
+  --accent-light: #4174ec;
+  --accent-regular: #2745ce;
   --accent-dark: #1c0056;
-  --accent-overlay: hsla(280, 89%, 67%, 0.33);
+  --accent-overlay: #2745ce54;
   --accent-subtle-overlay: var(--accent-overlay);
   --accent-text-over: var(--gray-999);
 
@@ -94,7 +94,7 @@
   --gray-800: #283044;
   --gray-900: #141925;
   --gray-999-basis: 225, 31%, 5%;
-  --gray-999: #090b11;
+  --gray-999: #1d1d1a;
 
   --accent-light: #7ea7dc;
   --accent-regular: #5f8ad2;
